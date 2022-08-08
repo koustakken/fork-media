@@ -3,7 +3,7 @@ import { Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
 //pages
 import Home from './pages/home';
-import Articles from './pages/articles';
+import Articles from './pages/Articles/articles';
 import Best from './pages/best';
 import News from './pages/news';
 import Club from './pages/club';

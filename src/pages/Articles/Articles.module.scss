@@ -1,0 +1,16 @@
+.root {
+  h1 {
+    letter-spacing: 10px;
+    font-size: 10rem;
+    line-height: 1;
+    font-weight: 500;
+    background: -webkit-linear-gradient(180deg, #ee536f, #fac537);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
