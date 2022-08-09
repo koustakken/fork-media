@@ -5,10 +5,9 @@
 ## Tech Stack:
 
 - React Hooks
-- React Framer Motion
 - Redux Toolkit
 - React Router
 - SCSS
 - CSS-Modules
 
-![image](https://user-images.githubusercontent.com/73124280/183400362-d5097182-ad31-40ce-b6d0-a1ccad26fa14.png)
+![image](https://sun9-86.userapi.com/impg/hB7PpDa-WSRQXG7csEhXuzci7Pjrndx1O-gBcQ/pzG_1rqBl1s.jpg?size=1874x899&quality=96&sign=0a2fe45ce40158880fe9b8193db4238c&type=album)
